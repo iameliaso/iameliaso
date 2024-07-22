@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on data analytic projects with smart and funny persons.
 
-- 📫 How to reach me **soyanyan@hotmail.co.jp**
+- 📫 How to reach me **test2_soyanyan@hotmail.co.jp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
